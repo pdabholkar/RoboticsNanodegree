@@ -1,0 +1,2 @@
+I had enrolled in the Robotics Nanodegree a month ago when Udacity frst announced their 30 day free offer. I had gotten 1/3 of the way throuugh and wanted to complete the course in the free month, but as with most resolutions that did not work out and after a lot of deliberation and thanks to a generous discount offered by Udacity, I continue to be enrolled in the course. The goal is to fininsh the remainder of the course in the next one month.
+This website will serve as an account of my experiences.
