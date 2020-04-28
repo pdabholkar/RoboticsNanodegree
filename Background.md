@@ -1,2 +1,18 @@
-I had enrolled in the Robotics Nanodegree a month ago when Udacity frst announced their 30 day free offer. I had gotten 1/3 of the way throuugh and wanted to complete the course in the free month, but as with most resolutions that did not work out and after a lot of deliberation and thanks to a generous discount offered by Udacity, I continue to be enrolled in the course. The goal is to fininsh the remainder of the course in the next one month.
+I enrolled in the Robotics Nanodegree a month ago when Udacity frst announced their 30 day free offer. I completed 1/3 of the course when I actually wanted to complete the course in the free month. As with most wishful ideas this did not work out and after a lot of deliberation and thanks to a generous discount offered by Udacity, I continue to be enrolled in the course. The goal is to fininsh the remainder of the course in the next one month.
 This website will serve as an account of my experiences.
+
+## Day 32:
+### Done today
+- Read through Lesson 3 in the course "Write ROS Nodes". The material presented was easy to understand because the code is all there.
+- I am stumped by the challenge in the last section that asked me to use the template class to implement the nodes in the lesson
+- I have limited ability with OOP. Thankfully the knowledge forum has a question https://knowledge.udacity.com/questions/86508
+- One of the solutions is a YoutTube video. Trying to follow the presenter and have watched the video a number of times to understand what is being done. I am able to grasp the idea but I am still not confident that I can attempt the question on my own
+- Found another link that discusses OOP in C++ for ROS https://roboticsbackend.com/oop-with-ros-in-cpp/. Thi could be it. I have read the link and feel a bit more confident. I shoul be able to do a bit of "pattern matching" of code templates and attempt the challenge.
+
+### What happens tomorrow
+1. Follow the tutorial from roboticsbackend.com and complete the challenge
+2. Move on to the Project "Go Chase It"
+3. I have downloaded the eBook "A gentle introduction to ROS" https://cse.sc.edu/~jokane/agitr/ Will go through the initial few pages to check its usefulness.
+
+
+
