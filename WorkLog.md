@@ -14,5 +14,12 @@ This website will serve as an account of my experiences.
 2. Move on to the Project "Go Chase It"
 3. I have downloaded the eBook "A gentle introduction to ROS" https://cse.sc.edu/~jokane/agitr/ Will go through the initial few pages to check its usefulness.
 
+## Day 33:
+### Done today
+- Did not attempt the challenge question.
+- Progressed to Section 6 in the project that discusses enhancing the Robot URDF discussion to a wheels
+- Was not able to get the rotated properly. This also causes the main chassis to flip on its belly.
 
+### What happens tomorrow
+- Will continue with the model. 
 
