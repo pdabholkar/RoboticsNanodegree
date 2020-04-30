@@ -23,3 +23,15 @@ This website will serve as an account of my experiences.
 ### What happens tomorrow
 - Will continue with the model. 
 
+## Day 34:
+### Done today
+- Added the camera and LIDAR models to the URDF.
+- This is a good tutorial https://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Model%20with%20URDF%20from%20Scratch
+The section on connecting the arm to the body with the joint was useful in understanding the concept of origins.
+- **ATTN!** Because Gazebo is a physics engine, if the URDF only has the visual and the inertial models for some links and all three models for the other links. the model may topple or break
+- **ATTN** The joint is necessary for the URDF to be parsed correctly. Without the joint, the link does not have a reference/origin.
+- Getting the LIDAR plugin to show the Laser rays is not happening for now.
+
+### Whatt happens tomorrow
+- Will continue working on the LIDAR model and RVIZ visualization
+- Complete the project
